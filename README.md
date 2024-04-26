@@ -9,10 +9,10 @@
 [![Blog](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ### 📊 Stats 
-<a href="https://github.com/muriloglasser/github-readme-stats">
+<a href="https://github.com/muriloglasser">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=muriloglasser&show_icons=true&theme=aura&text_color=ffffff&rank_icon=github"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/muriloglasser">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloglasser&layout=donut&theme=aura&text_color=ffffff" />
 </a>
 
