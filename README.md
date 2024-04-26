@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=A277FF&lines=Hi+there,+I'm+Murilo+Glasser+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=A277FF&size=25&lines=👋+Hi+there,+I'm+Murilo+Glasser)](https://git.io/typing-svg)
 
 ### 🛠 Stack 
 [![Blog](https://img.shields.io/badge/Unity-323330?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/pt)
