@@ -1,4 +1,3 @@
-<div style="background-color: black; padding: 20px;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&width=500&duration=2500&pause=2500&size=25&lines=👋+Hi+there,+I'm+Murilo+Glasser!)](https://git.io/typing-svg)
 
@@ -26,4 +25,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=portfolio-template&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/portfolio-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=jam-starter-kit&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/jam-starter-kit)
 
-</div>
