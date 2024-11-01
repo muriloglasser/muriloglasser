@@ -20,6 +20,7 @@
 ### 👨‍💻 Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=3D-ragdoll-implementation&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/3D-ragdoll-implementation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=2D-plataform-runner-template&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/2D-plataform-runner-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=parable-movement&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/parable-movement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=portfolio-template&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/portfolio-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=data-manager&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/data-manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=event-dispatcher&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/event-dispatcher)
