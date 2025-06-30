@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=000000&width=500&duration=2500&pause=2500&size=25&lines=👋+Hi+there,+I'm+Murilo+Glasser!&border=000000)](https://git.io/typing-svg)
 
-### 📊 Stats 
-<a href="https://github.com/muriloglasser">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=muriloglasser&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=lightgray&border_radius=10"/>
-</a>
-<a href="https://github.com/muriloglasser">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloglasser&layout=donut&bg_color=ffffff&title_color=000000&text_color=000000&border_color=lightgray&border_radius=10" />
-</a>
 
 ### 👨‍💻 Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=3D-ragdoll-implementation&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=lightgray&border_radius=10)](https://github.com/muriloglasser/3D-ragdoll-implementation)
