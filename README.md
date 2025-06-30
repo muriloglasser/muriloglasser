@@ -1,13 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=000000&width=500&duration=2500&pause=2500&size=25&lines=👋+Hi+there,+I'm+Murilo+Glasser!&border=000000)](https://git.io/typing-svg)
-
-### 🛠 Stack 
-[![Blog](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&border=lightgray)](https://unity.com/pt)
-[![Blog](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white&border=lightgray)](https://dotnet.microsoft.com/pt-br/languages/csharp)
-[![Blog](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&border=lightgray)](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
-[![Blog](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&border=lightgray)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Blog](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white&border=lightgray)](https://html5.org)
-[![Blog](https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=white&border=lightgray)](https://www.w3.org/Style/CSS/Overview.en.html)
-
 ### 📊 Stats 
 <a href="https://github.com/muriloglasser">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=muriloglasser&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=lightgray&border_radius=10"/>
