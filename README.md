@@ -1,29 +1,43 @@
+<!-- HEADER CLARO E ESTILOSO COM GRADIENTES -->
+![header](https://raw.githubusercontent.com/muriloglasser/muriloglasser/main/assets/header-light.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&width=500&duration=2500&pause=2500&size=25&lines=👋+Hi+there,+I'm+Murilo+Glasser!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=9333EA&width=600&duration=2500&pause=2500&center=true&size=25&lines=👋+Hi+there,+I'm+Murilo+Glasser!)](https://git.io/typing-svg)
 
-### 🛠 Stack 
-[![Blog](https://img.shields.io/badge/Unity-323330?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/pt)
-[![Blog](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)
-[![Blog](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
-[![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Blog](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org)
-[![Blog](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+---
 
-### 📊 Stats 
-<a href="https://github.com/muriloglasser">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=muriloglasser&show_icons=true&theme=aura&text_color=ffffff&rank_icon=github"/>
-</a>
-<a href="https://github.com/muriloglasser">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloglasser&layout=donut&theme=aura&text_color=ffffff" />
-</a>
+### 🛠 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=000000" />
+  <img src="https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=c-sharp&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=9333ea" />
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&logo=html5&logoColor=000000" />
+  <img src="https://img.shields.io/badge/CSS-ffffff?style=for-the-badge&logo=css3&logoColor=00ffff" />
+</div>
 
-### 👨‍💻 Repositories 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=3D-ragdoll-implementation&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/3D-ragdoll-implementation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=2D-plataform-runner-template&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/2D-plataform-runner-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=parable-movement&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/parable-movement)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=portfolio-template&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/portfolio-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=data-manager&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/data-manager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=event-dispatcher&theme=aura&text_color=ffffff)](https://github.com/muriloglasser/event-dispatcher)
+---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=muriloglasser&show_icons=true&theme=default&title_color=9333ea&icon_color=ff69b4&text_color=000000" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloglasser&layout=donut&theme=default&title_color=a855f7&text_color=000000" />
+</div>
 
+---
 
+### 👨‍💻 Highlighted Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=3D-ragdoll-implementation&theme=default&title_color=00ffff&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=2D-plataform-runner-template&theme=default&title_color=ff69b4&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=parable-movement&theme=default&title_color=a855f7&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=portfolio-template&theme=default&title_color=9333ea&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=data-manager&theme=default&title_color=7c3aed&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muriloglasser&repo=event-dispatcher&theme=default&title_color=6d28d9&text_color=000000" />
+</div>
+
+---
+
+<!-- OPICIONAL: RODAPÉ SUAVE OU NEUTRO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muriloglasser/muriloglasser/main/assets/footer-light.png" width="100%" />
+</p>
